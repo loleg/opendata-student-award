@@ -4,7 +4,7 @@
 
 Materials from the [Open Data Student Award](https://opendata.ch/2018/07/results-open-data-student-award-2018/), launched at Opendata.ch/2018 and based on the [conference theme](text/conference-flyer-2018.jpg).
 
-The nominated and accepted projects (for full acceptance criteria [see blog post](https://opendata.ch/2018/02/open-data-student-award/)) were judged according to the following criteria:
+The accepted nominations - which can be seen at [hack.opendata.ch/event/19](http://hack.opendata.ch/event/19) - were evaluated according to the following criteria:
 
 - The student work uses Open Data and/or Open Government Data (OGD) with reference to Switzerland in an exemplary manner.
 - It uses data visualization and open standards (file formats, web services) where appropriate.
@@ -12,6 +12,8 @@ The nominated and accepted projects (for full acceptance criteria [see blog post
 - The author agrees to the submission and publication of the work and the media (photos and videos).
 
 ![](text/odsa-2018-rating.jpg)
+
+For the full acceptance criteria [see blog post](https://opendata.ch/2018/02/open-data-student-award/), copies of which (French/German) are included in the `text` folder.
 
 ## Trophy
 
